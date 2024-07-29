@@ -1,1 +1,1 @@
-# This the Tic-Tac-Toe project!!
+# This a Tic-Tac-Toe project!!
